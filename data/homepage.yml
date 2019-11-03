@@ -24,7 +24,7 @@ about:
 
 # skill
 skill:
-  enable : true
+  enable : false
   skillbar:
     - title : "Web Design"
       progress : "90%"
@@ -44,7 +44,7 @@ skill:
 
 # experience
 experience:
-  enable : true
+  enable : false
   item: 
     - logo : "images/experience/icon-1.png"
       title : "Infrustructure Engineer"
@@ -126,7 +126,7 @@ testimonial:
     - name : "Corey Banaszak"
       image : "images/testimonial/client-1.png"
       designation : "Client"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      content : "I am a father of 3 who never could find the time to work on my health. Then I found Healthy U and it really changed my life. The trainers provided me with a personalized plan based on my body type, current activity level, and goals. Then they helped plan workouts around my busy schedule."
       
     - name : "Skye Williams"
       image : "images/testimonial/client-2.png"
