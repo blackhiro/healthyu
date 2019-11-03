@@ -1,14 +1,16 @@
 ---
-title: "About Healthy U"
+title: "About"
 date: 2019-05-12T12:14:34+06:00
 description: "This is meta description."
-author : "Your Trainer"
-authorImage : "images/about/author.jpg"
-authorSignature : "images/about/signature.png"
+# author : ""
+# authorImage : "images/about/author.jpg"
+# authorSignature : "images/about/signature.png"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-            
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Purpose  
+
+There’s a reason why people want to live well. Would you like to live healthier and be healthier? At Healthy-U we believe that you are never too old or too young to start getting fit. That’s why at Healthy-U we bring the fitness to you to become a Healthier YOU! I want YOU to be a healthier YOU! 
+
+Who we are 
+
+Healthy-U is a group of fitness professionals whose focus is to bring YOU a fun and safe workout environment at your convenience. We do educate and provide feedback using in-person conversations and Mobile technology.
