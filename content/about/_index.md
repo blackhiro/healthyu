@@ -7,10 +7,10 @@ description: "This is meta description."
 # authorSignature : "images/about/signature.png"
 ---
 
-Purpose  
+<h1>Our Mission</h1>
 
-There’s a reason why people want to live well. Would you like to live healthier and be healthier? At Healthy-U we believe that you are never too old or too young to start getting fit. That’s why at Healthy-U we bring the fitness to you to become a Healthier YOU! I want YOU to be a healthier YOU! 
+<h5>Living healthy isn't just a hobby for us here at Healthy U its our job, our 9 to 5 is helping people meet their physical fitness goals. Healthy U is a team of physical trainers who weren't happy just training people and sending them home, we aren't interested in you just working out. We understand through expirence that the best way for you to reach your goals and live a healthier life is to actually have an all encompassing plan and baselines to understand and tailor said plan to your goals.</h5>
 
-Who we are 
+<h2>Who we are</h2> 
 
-Healthy-U is a group of fitness professionals whose focus is to bring YOU a fun and safe workout environment at your convenience. We do educate and provide feedback using in-person conversations and Mobile technology.
+<h5>Healthy U is a group of fitness professionals whose focus is to bring YOU a fun and safe workout environment at your convenience. We use a analytical approach to track your progress and keep you on the path to meeting your fitness and health goals.</h5>

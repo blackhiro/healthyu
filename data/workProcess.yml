@@ -1,12 +1,12 @@
 step:
-  - title : "Research and Plan"
-    icon : "images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
-  - title : "Design and Develop"
+  - title : "FIND YOUR BASELINE"
     icon : "images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "This is the most important step in our process, because setting a baseline allows us to reference your progress. With a baseline we can see whats working for you and even further tailor your program to meet your goals."
     
-  - title : "Deliver"
-    icon : "images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  - title : "DESIGN YOUR PLAN"
+    icon : "images/icons/plan.png"
+    content : "Once we have your Baseline established we can move forward in developing your plan. We take those Baseline numbers and contrast them against your goal and take into account your health and age profile to safely reach those goals."
+    
+  - title : "WORK"
+    icon : "images/icons/work.png"
+    content : "Our final step is putting in the physcial work, we plan the sessions, we schedule them, and we motivate you..all you have to do is show up."
