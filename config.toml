@@ -40,10 +40,9 @@ googleAnalytics = ""
   # hero Section
   [params.hero]
     type = "hero"
-    title = "Healthy U"
+    title = "Your Health is our business"
     description = "A full service personal training company"
     buttontext = "begin"
-    picture = "logo.jpg"
 
   # about section
   [[params.block]]
